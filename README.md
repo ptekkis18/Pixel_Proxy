@@ -18,7 +18,7 @@ This laptop was used for everything ranging from document creation for school to
 After a long gaming session, the laptop automatically turned off. Assuming the problem was the battery, the laptop was left to cool and recharge as seen from the battery indicator colour orange. After being fully charged and cooled, the laptop was turned on only to be greeted with a black screen. 
 
 Upon further inspection, using the VGA socket to output display signal on an external monitor windows blue screen of death keep appearing along with pixel artifacts as seen from the images bellow. This revealed that the integrated graphics card as well as the intel graphics card were damaged from intense heat and prolonged gaming session.
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/4f5243a7-dc52-4617-a119-37786b9c4845" width="154" height="200" />
 </p>
 
@@ -28,6 +28,9 @@ Repurpose the laptop and make it as usable as possible
 Firstly, the old hard disk drive was extracted preserving all the important files and replaced with a 4GB USB drive. Then, Linux Alpine was installed and used as the operating system as it is the lightest Linux distro allowing it to run with minimal resources. 
 
 # Alpine Linux
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ff70225-98d9-4984-bb9f-d8d0bea95ea4" width="296" height="200" />
+</p>
 The installation went smoothly despite the fact that the screen hardly could be seen. This was made possible with the way Alpine Linux works allowing for live use of the system just like Kali. Once you advance through the installation and as soon as OpenSSH is executed, the laptop could be access through another machine enabling installation completion.
 
 # Docker
