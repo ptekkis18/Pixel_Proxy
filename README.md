@@ -17,7 +17,10 @@ This laptop was used for everything ranging from document creation for school to
 
 After a long gaming session, the laptop automatically turned off. Assuming the problem was the battery, the laptop was left to cool and recharge as seen from the battery indicator colour orange. After being fully charged and cooled, the laptop was turned on only to be greeted with a black screen. 
 
-Upon further inspection, using the VGA socket to output display signal on an external monitor windows blue screen of death keep appearing along with pixel artifacts. This revealed that the integrated graphics card as well as the intel graphics card were damaged from intense heat and prolonged gaming session.
+Upon further inspection, using the VGA socket to output display signal on an external monitor windows blue screen of death keep appearing along with pixel artifacts as seen from the images bellow. This revealed that the integrated graphics card as well as the intel graphics card were damaged from intense heat and prolonged gaming session.
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4f5243a7-dc52-4617-a119-37786b9c4845" width="154" height="200" />
+</p>
 
 # Goal:
 Repurpose the laptop and make it as usable as possible
