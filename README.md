@@ -9,7 +9,7 @@ Repurposed laptop to run Pi-Hole for ad and malware blocking
   <img src="https://github.com/user-attachments/assets/733e6c35-ec6e-4579-8c2f-0b7883d66407" width="158" height="230" />
 </p>
 
-# Background Section
+# Overview
 
 Laptop Model: Toshiba Satellite
 
@@ -17,14 +17,24 @@ This laptop was used for everything ranging from document creation for school to
 
 After a long gaming session, the laptop automatically turned off. Assuming the problem was the battery, the laptop was left to cool and recharge as seen from the battery indicator colour orange. After being fully charged and cooled, the laptop was turned on only to be greeted with a black screen. 
 
-Upon further inspection, using the VGA socket to output display signal on an external monitor windows blue screen of death keep appearing along with pixel artifacts as seen from the images bellow. This revealed that the integrated graphics card as well as the intel graphics card were damaged from intense heat and prolonged gaming session.
+Upon further inspection, using the VGA socket to output display signal on an external monitor windows blue screen of death keep appearing along with pixel artifacts as seen from the images bellow. This revealed that the integrated graphics card as well as the intel graphics card were damaged from intense heat and prolonged gaming session. The laptop was then opened internally, cleaning the fans from minimal dust as well as reapplying the thermal paste which didn't make any difference to its state other than enabling the laptop to run cooler.
+
+The purpose of this project was to repurpose the damaged laptop and make it function as a Pi-hole DNS server for blocking ads and enhancing network security. This was undertaken as a challenge and a learning opportunity to further explore Linux distributions and gain valuable networking experience, with environmental sustainability also in mind.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4f5243a7-dc52-4617-a119-37786b9c4845" width="154" height="200" />
 </p>
 
-# Goal
-Repurpose the laptop and make it as usable as possible
-
+# Project Goals
+ * Overcoming hardware limitations of the broken GPU
+ * Expanding the lifespan of the laptop
+ * Setting up a fully functional Pi-Hole Server
+ * Using as few resources as possible  
+# Hardware Used
+ * Damaged Laptop
+ * External Monitor
+ * VGA cable
+ * Thermal Paste
+ * 4GB USB
 
 # Alpine Linux
 <p align="center">
@@ -46,4 +56,15 @@ During the execution of this project a lot of challenges were presented, technol
 Lastly, the root cause of the problem. The screen and graphics card made the situation even worse by displaying artifacts and blocking useful parts of the screen. Luckily, even this challenge was overcome with OpenSSH allowing the project to advance and be completed successfully.
 
 Even with the damaged screen output provided from the VGA port when connected to an external monitor, the laptop was successfully repurposed with no additional expenses. The Pi-Hole is operating as intended to this day, blocking and preventing websites from displaying ads and malware maintaining a safe and secure cyber environment with uninterrupted browsing experience for all users in the network.
+# Project Outcomes
+ * Reusing old hardware maintaining environmental sustainability
+ * Knowledge of DNS networking gained
+ * Adaptability presented
+    - Working with limited resources
+ * Improved browsing speed
+    - No need to wait for ads to load
+ * Pi-Hole is fully working
+    - Over 129359 queries blocked
+ * Network security enhanced
+    - Malicious websites are blocked
 
