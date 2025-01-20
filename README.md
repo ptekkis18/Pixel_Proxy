@@ -13,7 +13,7 @@ Repurposed laptop to run Pi-Hole for ad and malware blocking
 
 Laptop Model: Toshiba Satellite
 
-This laptop was used for everything ranging from document creation for school to light gaming. Initially the battery declining reassuring it useless without being constantly on the charger. Soon after rocket league was released and after acknowledging the laptop was not meeting even the minimum requirements, it was still used to play the game at the lowest possible settings.
+This laptop was used for everything ranging from document creation for school to light gaming. Initially the battery life started declining making it useless without being constantly on the charger. Soon after rocket league was released and after acknowledging the laptop was not even meeting the minimum requirements, it was still used to play the game at the lowest possible settings.
 
 After a long gaming session, the laptop automatically turned off. Assuming the problem was the battery, the laptop was left to cool and recharge as seen from the battery indicator colour orange. After being fully charged and cooled, the laptop was turned on only to be greeted with a black screen. 
 
